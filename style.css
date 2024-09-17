@@ -1,0 +1,28 @@
+
+.box {
+    height: 500px;
+    width: 550px;
+    border: 1px solid; color: #B4B4B4;
+}
+h4 {
+    color: black;
+   padding-left: 105px;
+    padding-top: 1px;
+}
+p{
+    padding-left: 110px;
+    padding-top: 1px;
+    font-weight: 400;
+    
+}
+img {
+    width: 280px;
+    height: 260px;
+
+    padding-left: 110px;
+    height: 200px;
+    width:270px;
+}
+a{
+   padding-left: 110px;
+}
